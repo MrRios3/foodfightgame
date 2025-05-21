@@ -29,28 +29,28 @@ lib.ssMetadata = [
 
 
 (lib.Bitmap1 = function() {
-	this.initialize(ss["FoodFight_atlas_2"]);
+	this.initialize(ss["foodfight_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.DirtyKitchen = function() {
-	this.initialize(ss["FoodFight_atlas_1"]);
+	this.initialize(ss["foodfight_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.FryingPan = function() {
-	this.initialize(ss["FoodFight_atlas_1"]);
+	this.initialize(ss["foodfight_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Static = function() {
-	this.initialize(ss["FoodFight_atlas_1"]);
+	this.initialize(ss["foodfight_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
