@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"FoodFight_atlas_1", frames: [[0,0,1920,1080],[0,1082,315,554],[317,1082,193,214]]},
-		{name:"FoodFight_atlas_2", frames: [[0,0,1920,1080]]}
+		{name:"foodfight_atlas_1", frames: [[0,0,1920,1080],[0,1082,315,554],[317,1082,193,214]]},
+		{name:"foodfight_atlas_2", frames: [[0,0,1920,1080]]}
 ];
 
 
