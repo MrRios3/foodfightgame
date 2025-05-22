@@ -413,8 +413,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/FoodFight_atlas_1.png", id:"FoodFight_atlas_1"},
-		{src:"images/FoodFight_atlas_2.png", id:"FoodFight_atlas_2"}
+		{src:"images/foodfight_atlas_1.png", id:"foodfight_atlas_1"},
+		{src:"images/foodfight_atlas_2.png", id:"foodfight_atlas_2"}
 	],
 	preloads: []
 };
